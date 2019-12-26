@@ -1,8 +1,10 @@
-# permalinks
-permalink:           pretty
+# jekyll plugins
+plugins:
+  - jekyll-seo-tag  # seo
+  - jekyll-sitemap  # sitemap
 
-# pagination
-paginate:            5
+# versioning
+version:             0.0.1
 
 # seo : site
 title:               sectorzero
@@ -17,9 +19,8 @@ author:
   url:               https://sectorzero.github.io
   email:             sndshd@gmail.com
 
-# versioning
-version:             0.0.1
+# permalinks
+permalink:           pretty
 
-# seo
-plugins:
-  - jekyll-seo-tag
+# pagination
+paginate:            5
