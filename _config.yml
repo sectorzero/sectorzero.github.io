@@ -4,18 +4,22 @@ permalink:           pretty
 # pagination
 paginate:            5
 
-# Setup
+# seo : site
 title:               sectorzero
 tagline:             'a personal log'
 description:         'a personal log'
 url:                 https://sectorzero.github.io
 baseurl:             ''
 
-# About/contact
+# seo : author 
 author:
   name:              sectorzero
   url:               https://sectorzero.github.io
   email:             sndshd@gmail.com
 
-# Custom vars
+# versioning
 version:             0.0.1
+
+# seo
+plugins:
+  - jekyll-seo-tag
