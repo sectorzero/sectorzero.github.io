@@ -4,6 +4,7 @@ plugins:
   - jekyll-sitemap        # sitemap
   - jekyll-redirect-from  # multiple urls for posts
   - jekyll-feed           # atom feed
+  - jekyll-paginate       # pagination
 
 # versioning
 version:             0.0.1
@@ -25,4 +26,4 @@ author:
 permalink:           pretty
 
 # pagination
-paginate:            5
+paginate:            2
