@@ -3,6 +3,7 @@ plugins:
   - jekyll-seo-tag        # seo
   - jekyll-sitemap        # sitemap
   - jekyll-redirect-from  # multiple urls for posts
+  - jekyll-feed           # atom feed
 
 # versioning
 version:             0.0.1
