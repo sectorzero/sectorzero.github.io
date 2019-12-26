@@ -3,6 +3,8 @@ layout: post
 title: What's Jekyll?
 description: A sample description about the post.
 tags: web tutorial markdown
+redirect_from:
+  - /post/whats-jekyll/
 ---
 
 [Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
