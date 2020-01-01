@@ -35,8 +35,7 @@ quid; luctusque ignarus ardor eductum campi sagax!
         bankruptcySidebar = core + 2;
     }
     var adcInputInfringement = 5;
-    gigabitWiki(targetCluster(vista), monochrome_bsod_point + 5 + vram, 40670 -
-            3 + 4);
+    gigabitWiki(targetCluster(vista), monochrome_bsod_point + 5 + vram, 40670 - 3 + 4);
     var keywords = 17 + compiler_intranet * menuModelParity;
     if (tabletKeyloggerVci >= 967191) {
         podcast.windows -= eps_bridge;

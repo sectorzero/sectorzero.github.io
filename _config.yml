@@ -27,3 +27,4 @@ permalink:           pretty
 
 # pagination
 paginate:            2
+paginate_path: "/blog/page:num/"
