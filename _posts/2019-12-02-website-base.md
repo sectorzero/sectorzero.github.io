@@ -4,7 +4,7 @@ id: e4db1702-2846-40a4-bef8-559f9b065b44
 title : Base Framework For This Website
 description: Description of the framework used for building this static website 
 tags: website markdown jekyll html content static-website-generator github-pages
-category: web
+category: [web]
 redirect_from:
   - /post/website-base/
 version: 0.1

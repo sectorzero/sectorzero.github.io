@@ -4,7 +4,7 @@ id: 08f7f7cc-ed97-4705-aa09-6dd527019e32
 title : Markdown To Html Content Demo
 description: Example post content to demo HTML generation from Markdown and how it looks
 tags: html markdown generator content
-category: web
+category: [web]
 redirect_from:
   - /post/content-demo/
 version: 0.1

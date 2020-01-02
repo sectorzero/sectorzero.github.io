@@ -3,8 +3,8 @@ layout: post
 id: 9b558909-dc3e-4c6f-a2a8-26da88aa4830 
 title : Mac OS X Developer Setup 
 description: Description of base setup of Mac OS X for productive development 
-tags: osx development dev-environment setup tutorial
-category: development
+tags: osx mac development dev-environment setup tutorial
+category: [development]
 redirect_from:
   - /post/mac-os-x-setup/
 version: 0.2
@@ -18,18 +18,22 @@ Some people might work on front-end development, others on more system-side or b
 
 * Install ( or use a fresh install ) Mac OS X. This was written as performed on 10.15.2 and configure System Preferences as needed
 
-* The first thing you want to install is [Xcode][1]. See these [instructions][2] if you want to avoid installing via Appstore for more reliability and a bit more speed.
+* The first thing you want to install is [Xcode][1]. See these [instructions][2] if you want to avoid downloading via Appstore for more reliability and a bit more speed.
 
 * Install [Xcode Commandline Tools][3] using ```xcode-select --install``` on the terminal
 
 * Install [Homebrew][homebrew]
   * git clone from Homebrew repo or use provided script
-  * See [instructions] if you use an account with non-admin privileges for general use
+  * See [instructions][4] if you use an account with non-admin privileges for general use
 
 * Verify installation and environment so far using ```brew doctor```. This usually confirms all required tools and permissions for previous steps. All following tools can be installed using [Homebrew][homebrew] from this point onward
 
 * Install Git
     * Option 1 : use Git which comes with Xcode in /usr/bin
+      ```shell
+        ➜ /usr/bin/git --version
+        git version 2.21.0 (Apple Git-122.2)
+      ```
     * Option 2 : install latest Git
       * brew install git
       * echo "/usr/local/bin:$PATH" >> ~/.zshrc ( i.e ensure /usr/local/bin precedes /usr/bin in PATH search order )
@@ -42,8 +46,7 @@ Some people might work on front-end development, others on more system-side or b
 
 * Install [Iterm2][iterm2]
   * ```brew install iterm```
-  * Font : [Fira Code][7] 
-  * Color Scheme : [Solarized][8]
+  * Font : [Fira Code][7], Color Scheme : [Solarized][8]
 
 * Install [Zsh][zsh]
   * Mac Os X >= Catalina comes with Zsh, but you need to upgrade to latest Zsh yourself.
@@ -60,12 +63,11 @@ Some people might work on front-end development, others on more system-side or b
 
 * Install Browsers
   * [Firefox][firefox] 
-  * [Microsoft Edge][edge] ( chrome based - it is really good )
+  * [Microsoft Edge][edge] ( chrome based - it is really good !! )
 
 * Install [Microsoft Visual Studio Code][vscode]
     * [Vim KeyBindings][6] : ```code --install-extension vscodevim.vim```
-    * Font : [Fira Code][7]
-    * Color Scheme : [Solarized][8]
+    * Font : [Fira Code][7], Color Scheme : [Solarized][8]
 
 * Optional
   * Add user to sudoers via admin account, if needed
