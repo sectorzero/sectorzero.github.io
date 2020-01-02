@@ -7,6 +7,7 @@ tags: html markdown generator content
 category: web
 redirect_from:
   - /post/content-demo/
+version: 0.1
 ---
 
 <div class="message">

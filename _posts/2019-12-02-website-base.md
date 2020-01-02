@@ -7,6 +7,7 @@ tags: website markdown jekyll html content static-website-generator github-pages
 category: web
 redirect_from:
   - /post/website-base/
+version: 0.1
 ---
 
 The website is designed to work as [static website](https://en.wikipedia.org/wiki/Static_web_page), i.e all content is generated apriori and served as static content from a [web server](https://en.wikipedia.org/wiki/Web_server). Usually this works well with storage services providing wrapper for static websites like [Azure Storage](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website) or [AWS S3](https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html).

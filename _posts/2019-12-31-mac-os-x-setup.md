@@ -1,12 +1,13 @@
 ---
 layout: post
-id: 
+id: 9b558909-dc3e-4c6f-a2a8-26da88aa4830 
 title : Mac OS X Developer Setup 
 description: Description of base setup of Mac OS X for productive development 
 tags: osx development dev-environment setup tutorial
-category: web
+category: development
 redirect_from:
   - /post/mac-os-x-setup/
+version: 0.2
 ---
 
 When I get a new Mac or do a fresh install of OS X, I used to be faced with enormous decision on the minimal basic things I need to configure and install. There are lot of customizations and setup one can and has to do on a fresh Mac OS X installaton. Usually this led me to painful hours of reseach of various people's setup. Over time, after numerous times of doing this, I distilled and narrowed down to the following base layer upon which I can plan to install other customizations. 
