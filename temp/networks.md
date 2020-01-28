@@ -54,8 +54,10 @@ Note : A 'computer' is a vague term. It can mean a single machine like your lapt
 
 The following resources explain the high-level concepts in building the network. This is important to get your grounding - esp when you are encountered with a situation or question - and you first need to relate to what problem or aspect that is addressing before you understand the how.
 
-- This textbook is unique and I see this is used in lot of structured courses. However, for the limited scope, I suggest you only read Chapter 1 ( will share the doc )
-- [Some Reference][internetworks]
+- [Chapter 1 of this textbook][networkstopdown] This textbook is unique and I see this is used in lot of structured courses. However, for the limited scope, I suggest you only read Chapter 1 (will share the doc)
+- [Chapter 1 of this book][systemsapproach] 
+- [This chapter][datanets]
+- [First two in Lecture Notes][cs144]
 
 # Routing Layer Perspective
 
@@ -70,6 +72,13 @@ This is the core-service provided by computer networking. There are ways to heir
 - DNS. All addressing is some number. Think of this as a directory which maps www.google.com -> the numerical address in the IP layer
 
 Read the following to understand this layer :
+
+- [Week 3 and Week 5 Lectures][cs144]
+- [chapter 3][systemsapproach]
+- [chapter 4][networkstopdown]
+- [guide][ibmnetguide]
+- [dns][dnswhat]
+- [CIDR & Subnetting][cidr]
 
 ## Hands On
 
@@ -199,6 +208,10 @@ $> nc localhost 1300
 
 # Some History ( if interested )
 
+- [Architectural decisions][mitintro]
+- [Stability of the architecture][internetworks]
+- [Overview][berkeleyintro]
+
 [networkstopdown]: https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149 "Computer Networks Top Down Approach"
 [systemsapproach]: https://book.systemsapproach.org/index.html "Networking Systems Approach"
 [mitintro]: http://web.mit.edu/6.829/www/currentsemester/materials/lecture2.pdf "MIT 6.829 Internet Architecture"
@@ -208,6 +221,8 @@ $> nc localhost 1300
 [internetworks]: http://web.mit.edu/6.829/www/currentsemester/papers/only-just-works.pdf "Why the Internet only just works"
 [ibmnetguide]: https://www.ibm.com/cloud/learn/networking-a-complete-guide "IBM Networking Guide"
 [shulerinternetwork]: http://www.theshulers.com/whitepapers/internet_whitepaper/index.html "How does the Internet Work - Shuler"
-[schlerswhitepaper]: http://www.theshulers.com/whitepapers/internet_whitepaper/index.html "Internet Whitepaper Shulers"
 [lifepacket]: https://www.youtube.com/watch?v=d0TJ8szp4AE "Life Of A Packet"
 [iplookup]: https://securitytrails.com/blog/ip-lookup-strategy "IP Lookup Tools"
+[cidr]: https://www.ionos.com/digitalguide/server/know-how/cidr-classless-inter-domain-routing/ "CIDR and Subnetting"
+[ports]: https://www.experts-exchange.com/articles/22179/Network-Ports-what-they-are-and-they-work.html "Ports"
+[dnswhat]: https://cloudacademy.com/blog/how-dns-works/ "How DNS Works - CloudAcademy"
