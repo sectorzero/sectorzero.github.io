@@ -17,6 +17,11 @@ version: 0.1
     - [Pros & Cons](#pros--cons)
   - [Option 2](#option-2)
     - [Pros & Cons](#pros--cons-1)
+  - [Packing List](#packing-list)
+    - [Learnings from lasy year](#learnings-from-lasy-year)
+    - [My packing list](#my-packing-list)
+    - [Backpack Weight Estimate](#backpack-weight-estimate)
+    - [Lightweight Food Choices](#lightweight-food-choices)
 
 # Backpacking Trip 2020
 
@@ -91,6 +96,73 @@ version: 0.1
 - Cost effective option
 - We get to explore Buckskin Gulch
 
+## Packing List
+
+### Learnings from lasy year
+- Keep weight as low as possible. We have to sacrifice things which are not *really* needed
+- Only one set of clothes, nothing extra - mix and match
+- Use dehydrated food. It sucks. Just suck it up.
+- Total gross weight of backpack should be strictly LTE 11kg (24lb)
+
+### My packing list
+
+- Rubber shoes / Sneakers for this. Should be aroung 30$ or so
+- Neoprene socks - 1 pair
+- Hiking shorts - 1
+- Merino Wool Underwear - 1
+- Merino Wool Hiking Shirt - 1
+- Hiking Cap - 1
+- Glasses - 1
+- Night Merino Wool Full Arm - 1
+- Night Merino Wool Underpants - 1
+- 1 lightweight pant
+- Socks for night - 1 pair
+- Fleece - 1
+- Gloves - 1 light pair
+- Head scarf - 1
+- Woolen cap - 1
+- Slippers - light 1 pair
+- Cooking fuel - 1 medium
+- Stove - 1
+- Cooking pot - 1
+- Spoon - 1
+- Knife - 1
+- Ghee bottle - 1
+- Water container - plastic canteen - 3
+- Water container - plastic bottle - 1
+- Sleeping bag - 1 ( need to see if I can find light one )
+- Sleeping pad
+- Tent - lightweight
+- Toileteries
+- Trekking poles
+- First aid kit
+
+### Backpack Weight Estimate
+
+Item | Weight 
+-----|-------
+Water | 3.0
+Food | 2.5
+Clothes | 2.0
+Backpack | 1.5
+Tent | 1.0
+Cooking Items | 0.5 
+Misc | 0.5
+
+### Lightweight Food Choices
+
+- Ragi
+- Lentil Soup Mix
+- Rice
+- Oatmeal mix
+- High fat & protien nuts
+- Dehydrated veggies
+- Cocoa Mix
+- Tea
+- Maggi
+- Seaweed Dried - super-ultralight
+- Dehydrated Prepared Food Packs ( to test )
+- Mashed Potato Mix
 
 [infiniteearth]: https://ourinfiniteearth.com/travel-destinations/american-southwest/buckskin-gulch-paria-canyon-backpacking-guide/ 
 [christina]: http://www.christinafeliz.com/blog-2/2016/10/6/backpacking-the-paria-canyon
