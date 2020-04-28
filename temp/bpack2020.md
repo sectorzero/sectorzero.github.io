@@ -70,14 +70,16 @@ version: 0.1
 
 ## Location Map
 
-![Region](https://1drv.ms/u/s!Au4_6JRfzLRRnhpKV1Ph3XqvkFkR?e=5xqOdx)
+![Region](./Paria-Region.png)
 
-![Hike Topo](https://1drv.ms/b/s!Au4_6JRfzLRRnhhgng4J47_-WJhm?e=NFDblc)
+![Hike Topo](./Paria-Itin-Map.png)
 
 ## Emergency Contact
 
 - [Kanab Field Office](https://www.blm.gov/office/kanab-field-office) (435) 644-1200
-- 911
+- 911 
+  - Paria Canyon Overnight Hike Starting @ White House Trailhead
+  - Use GPS tracker to get last location
 
 ## Permit Details
 
