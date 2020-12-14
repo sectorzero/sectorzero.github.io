@@ -15,6 +15,28 @@ version: 0.1
 - [Recipes](#recipes)
   - [Kichdi](#kichdi)
   - [Oatmeal](#oatmeal)
+  - [Burger 1](#burger-1)
+  - [Vegan Taco Medley](#vegan-taco-medley)
+  - [Palak Saag](#palak-saag)
+  - [Channa Masala](#channa-masala)
+  - [Mexican Masala Puri](#mexican-masala-puri)
+  - [Gourment MnC](#gourment-mnc)
+  - [Upphittu](#upphittu)
+  - [Ragi Items 12ka4](#ragi-items-12ka4)
+  - [Rice](#rice)
+  - [Dose](#dose)
+  - [Chuntney](#chuntney)
+  - [Avalakki](#avalakki)
+  - [Aloogadde Palya](#aloogadde-palya)
+  - [Hagalkaayi Palya](#hagalkaayi-palya)
+  - [Akki Rotti](#akki-rotti)
+  - [KuKu Bele 1 & 2](#kuku-bele-1--2)
+  - [Chapati](#chapati)
+  - [Badnekaayi Bajji](#badnekaayi-bajji)
+  - [EB2](#eb2)
+  - [Oatmeal Homestyle](#oatmeal-homestyle)
+  - [Oatmil Chai](#oatmil-chai)
+  - [English Tea](#english-tea)
 
 ## Kichdi
 
@@ -60,3 +82,48 @@ To cook :
 - Cook on slow flame in a steel pot. 
 - Keep stirring continuosly till done ( in about 10 mins )
 - Add fresh granola on top for sweetness & crunchiness and enjoy
+
+## Burger 1
+
+## Vegan Taco Medley
+
+## Palak Saag
+
+## Channa Masala
+
+## Mexican Masala Puri
+
+## Gourment MnC
+
+## Upphittu
+
+## Ragi Items 12ka4
+
+## Rice
+
+## Dose
+
+## Chuntney
+
+## Avalakki
+
+## Aloogadde Palya
+
+## Hagalkaayi Palya
+
+## Akki Rotti
+
+## KuKu Bele 1 & 2
+
+## Chapati
+
+## Badnekaayi Bajji
+
+## EB2 
+- Top Secret
+
+## Oatmeal Homestyle
+
+## Oatmil Chai
+
+## English Tea
