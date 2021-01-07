@@ -14,7 +14,7 @@ version: 0.1
 
 - [Recipes](#recipes)
   - [Kichdi](#kichdi)
-  - [Oatmeal](#oatmeal)
+  - [Oatmeal Backpack Style](#oatmeal-backpack-style)
   - [Burger 1](#burger-1)
   - [Vegan Taco Medley](#vegan-taco-medley)
   - [Palak Saag](#palak-saag)
@@ -25,7 +25,7 @@ version: 0.1
   - [Ragi Items 12ka4](#ragi-items-12ka4)
   - [Rice](#rice)
   - [Dose](#dose)
-  - [Chuntney](#chuntney)
+  - [Chutney](#chutney)
   - [Avalakki](#avalakki)
   - [Aloogadde Palya](#aloogadde-palya)
   - [Hagalkaayi Palya](#hagalkaayi-palya)
@@ -64,7 +64,7 @@ To cook :
 - Stir towards the end, to keep from sticking to pot. Should be done when almost ready to stick to pot.
 - Cool a bit and enjoy
 
-## Oatmeal
+## Oatmeal Backpack Style
 
 This oatmeal is designed for backpacking. Really yummy and very easy to cook
 
@@ -84,10 +84,17 @@ To cook :
 - Add fresh granola on top for sweetness & crunchiness and enjoy
 
 ## Burger 1
+- Top Secret
 
 ## Vegan Taco Medley
 
 ## Palak Saag
+- blanch lightly the saag and add to cold water - less heat, more green, more nutrients and flavor
+- saute in oil - only jeera, onion, ginger, garlic, chillis
+- blend saag and sauted onion, maybe also add a bit mint
+- heat little oil, add coriander, turmeric to oil, just to heat and then add blended mixture
+- add salt, kastoori methi, yogurt or creame
+- cook very little 3-4 mins, otherwiise spinach will decolor and lose taste
 
 ## Channa Masala
 
@@ -96,6 +103,18 @@ To cook :
 ## Gourment MnC
 
 ## Upphittu
+- 12ka3
+- roast the rava a little onkly
+- jeera, saasve, urad dal, channa dal, byadgi
+- add onion 
+- ginger and chillis
+- turmeric and salt
+- boiled avarekaalu
+- add water and bring to boil
+- add ghee
+- add roasetd rava slowly and mix, till thick
+- add cocinut, cilantro, cover and simmer cook
+- add lime and serve
 
 ## Ragi Items 12ka4
 
@@ -103,7 +122,8 @@ To cook :
 
 ## Dose
 
-## Chuntney
+## Chutney
+- mint and ginger
 
 ## Avalakki
 
