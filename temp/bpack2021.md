@@ -63,6 +63,7 @@ version: 0.1
 - [Trip Report Video](https://www.youtube.com/watch?v=BGDntCrl6ak)
 
 - Breakdown
+
   | Day | Distance | Gain  | Loss  | Notes                                         |
   | --- | -------- | ----- | ----- | --------------------------------------------- |
   | 1   | 6        | +2300 | -280  | Camp at Cascade South Fork Zone               |
