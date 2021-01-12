@@ -15,6 +15,7 @@ version: 0.1
   - [Itinerary](#itinerary)
   - [Backpack Route](#backpack-route)
   - [Information](#information)
+  - [Preparation](#preparation)
   - [Emergency Contact](#emergency-contact)
   - [Permit Details](#permit-details)
   - [People](#people)
@@ -79,6 +80,10 @@ version: 0.1
   - Cooking gas canisters need to be bought at destination (as flying into)
   - Need to borrow sat communicator for emergency and location ping
   - Water is plenty on route and can optimize carry weight
+
+## Preparation
+
+- [Backpack Itemization](https://1drv.ms/x/s!Au4_6JRfzLRRnkEhQCpjtOc5AsKd?e=dUPQGH)
 
 ## Emergency Contact
 - TBD
