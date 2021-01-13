@@ -16,6 +16,7 @@ version: 0.1
   - [Backpack Route](#backpack-route)
   - [Information](#information)
   - [Preparation](#preparation)
+  - [Physical Conditioning](#physical-conditioning)
   - [Emergency Contact](#emergency-contact)
   - [Permit Details](#permit-details)
   - [People](#people)
@@ -62,13 +63,13 @@ version: 0.1
 - [Topo Map](https://caltopo.com/m/NP1F)
 - [Trip Report Video](https://www.youtube.com/watch?v=BGDntCrl6ak)
 
- | Day | Distance | Gain  | Loss  | Notes                                         |
- | --- | -------- | ----- | ----- | --------------------------------------------- |
- | 1   | 6        | +2300 | -280  | Camp at Cascade South Fork Zone               |
- | 2   | 6        | +2100 | -1500 | Camp at Alaska Basin - Basin Lakes            |
- | 3   | 0        | +0    | -0    | Camp at Alaska Basin - Basin Lakes (Rest Day) |
- | 4   | 8        | +1000 | -2100 | Camp at Death Canyon Zone (Start Early)       |
- | 5   | 8        | +500  | -2600 | Exit                                              |
+ | Day | Distance | Gain  | Loss  | Notes                                                 |
+ | --- | -------- | ----- | ----- | ----------------------------------------------------- |
+ | 1   | 6        | +2300 | -280  | Camp at Cascade South Fork Zone                       |
+ | 2   | 6        | +2100 | -1500 | Camp at Alaska Basin - Basin Lakes                    |
+ | 3   | 0        | +0    | -0    | Camp at Alaska Basin - Basin Lakes (Rest/Explore Day) |
+ | 4   | 8        | +1000 | -2100 | Camp at Death Canyon Zone (Start Early)               |
+ | 5   | 8        | +500  | -2600 | Exit                                                  |
 
 ## Information
 - [GTNP Backcountry Info](https://www.nps.gov/grte/planyourvisit/upload/grte_backcountry.pdf)
@@ -84,6 +85,17 @@ version: 0.1
 ## Preparation
 
 - [Backpack Itemization](https://1drv.ms/x/s!Au4_6JRfzLRRnkEhQCpjtOc5AsKd?e=dUPQGH)
+- Logistics Options
+  - I compared various options on cost for getting to and back. The best seems to be all of us fly to SLC on July 31, and take a rental car. Only rental car can be saved by going to Jackson, but the flight and shuttling costs will overweigh the rental and reduce flexibility. For me to fly to Jackson is ok price, but from Tejas, it seems outrageously expensive and less flexibility. I will go ahead and make cancellable bookings for stay, rental car and trailhead shuttle. Let;s coordiante on flight and each book whenever possible ( as cancellable ).
+- Jackson Stay Bookings 
+  - Aug 1 - Done ($250)
+  - Aug 6 - Done ($250)
+- Shuttle Logistics
+  - Talked to person. Need to send details and cost for 4 is $100. Person is quite easy to talk to. 
+- Rental Car from SLC
+  - Booked ($400)
+
+## Physical Conditioning
 
 ## Emergency Contact
 - TBD
