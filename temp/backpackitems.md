@@ -57,18 +57,20 @@ version: 0.1
 ### Weight Comparision W Freeze-Dried Option
 
 - Using Freeze-Dried Off-The-Shelf 
-  | Item                                                                           | Unit Wt Per Meal | Servings Reqd | Total Wt |
-  | ------------------------------------------------------------------------------ | ---------------- | ------------- | -------- |
-  | [Example](https://mountainhouse.com/products/mexican-adobo-rice-chicken-pouch) | 130              | 8             | 1040     |
-  |                                                                                |                  |               | **1040**     |
+
+ | Item                                                                           | Unit Wt Per Meal | Servings Reqd | Total Wt |
+ | ------------------------------------------------------------------------------ | ---------------- | ------------- | -------- |
+ | [Example](https://mountainhouse.com/products/mexican-adobo-rice-chicken-pouch) | 130              | 8             | 1040     |
+ |                                                                                |                  |               | **1040**     |
   
 - Using San-Custom-2 (Estimate)
-  | Item   | Unit Wt Per Meal | Servings Reqd | Total Wt |
-  | ------ | ---------------- | ------------- | -------- |
-  | Kichdi | 160              | 4             | 640      |
-  | Uphitt | 130              | 2             | 260      |
-  | Oats   | 110              | 2             | 220      |
-  |        |                  |               | **1120** |
+
+ | Item   | Unit Wt Per Meal | Servings Reqd | Total Wt |
+ | ------ | ---------------- | ------------- | -------- |
+ | Kichdi | 160              | 4             | 640      |
+ | Uphitt | 130              | 2             | 260      |
+ | Oats   | 110              | 2             | 220      |
+ |        |                  |               | **1120** |
 
 ## Backpack - How I manage
 
