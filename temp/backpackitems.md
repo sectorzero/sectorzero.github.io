@@ -24,7 +24,7 @@ version: 0.1
 ## For Ranganath (based on our talk)
 
 - Merino Wool Stuff ( eye-shut-and-buy ). These will come for a lot of uses, outside backpacking trip too. Bomb tested.
-    - [Half Sleeve Shirt]()
+    - [Half Sleeve Shirt](https://www.rei.com/product/144708/rei-co-op-merino-midweight-base-layer-crew-top-mens)
     - [Full Sleeve Shirt](https://www.rei.com/product/101402/rei-co-op-merino-midweight-base-layer-half-zip-top-mens)
     - [Base Layer Pant](https://www.rei.com/product/101404/rei-co-op-merino-midweight-base-layer-bottoms-mens)
     - [Bandana](https://www.rei.com/product/789718/buff-lightweight-merino-wool-multifunctional-headwear)
