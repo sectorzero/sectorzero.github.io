@@ -38,7 +38,6 @@ version: 0.1
 
 - [Topo Map](https://caltopo.com/m/NP1F)
 - [Trip Report Video](https://www.youtube.com/watch?v=BGDntCrl6ak)
-- [GTNP Backcountry Info](https://www.nps.gov/grte/planyourvisit/upload/grte_backcountry.pdf)
 
  | Day | Distance | Gain  | Loss  | Notes                                                 |
  | --- | -------- | ----- | ----- | ----------------------------------------------------- |
@@ -47,6 +46,16 @@ version: 0.1
  | 3   | 0        | +0    | -0    | Camp at Alaska Basin - Basin Lakes (Rest/Explore Day) |
  | 4   | 8        | +1000 | -2100 | Camp at Death Canyon Zone (Start Early)               |
  | 5   | 8        | +500  | -2600 | Exit                                                  |
+
+- Things to Know
+  - [GTNP Backcountry Info](https://www.nps.gov/grte/planyourvisit/upload/grte_backcountry.pdf)
+  - Need to pickup permit a day ahead
+  - Has trailhead shuttle logistics
+  - Jackson, WY is extremely expensive to fly into and to stay
+  - Bear country, need bear canister and precautions
+  - Cooking gas canisters need to be bought at destination (as flying into)
+  - Need to borrow sat communicator for emergency and location ping
+  - Water is plenty on route and can optimize carry weight
 
 ## Itinerary 
 
@@ -98,36 +107,22 @@ version: 0.1
 
 ## Preparation
 
-- 
-- Please check the following : 
+- Items Check
   - See [Backpack Itemization](https://1drv.ms/x/s!Au4_6JRfzLRRnkEhQCpjtOc5AsKd?e=dUPQGH) for list of items, 'orange' is personal items which you need to get. Adjust as per your preference. Other 'shared' things are arranged.
-  - Categories
-    - Shelter 
-      - Tent ( shared items - arranged )
-      - Sleeping Bag
-      - Sleeping Pad
-    - Storage
-      - Backpack (personal)
-      - Bear canisters (shared)
-    - Personal
-      - Clothes for hiking
-      - Clothes for sleeping
-      - Toileteris, Sunscreen, Glasses Etc.
-    - Food 
-      - Arranged shared bfast for 4 mornings
-      - Arranged shared dinner for 4 mornings
-      - For afternoon, get personal preference, ideally no stove required.
-      - Water containers
-
-- Things to Know
-  - [GTNP Backcountry Info](https://www.nps.gov/grte/planyourvisit/upload/grte_backcountry.pdf)
-  - Need to pickup permit a day ahead
-  - Has trailhead shuttle logistics
-  - Jackson, WY is extremely expensive to fly into and to stay
-  - Bear country, need bear canister and precautions
-  - Cooking gas canisters need to be bought at destination (as flying into)
-  - Need to borrow sat communicator for emergency and location ping
-  - Water is plenty on route and can optimize carry weight
+  - Test load the backpack, so no surprises
+  - Let me know any questions / changes required
+- Doubly Ensure
+  - Sleeping bag / Pad
+  - Shoes
+  - Backpack
+  - Food Plan
+  - 10 essentials
+- Food Plan  
+  - Current plan is shared bfast {oats, uphitt} for 4 mornings & dinner {kichdi} for 4 nights
+  - Common stove, gas and pot
+  - For afternoon, make and get personal preference snacks, ideally no cooking required. All items should fit in 1.25 bear canisters for all 4 ppl.
+  - If other meal plan required, please send details to adjust things.
+- Practice walking with shoes and realistically loaded backpack.
 
 ## Physical Conditioning
 - Shoes
