@@ -39,6 +39,8 @@ version: 0.1
 - [Topo Map](https://caltopo.com/m/NP1F)
 - [Trip Report Video](https://www.youtube.com/watch?v=BGDntCrl6ak)
 
+- ![Overview](./GTNPOverview.jpeg)
+
  | Day | Distance | Gain  | Loss  | Notes                                                 |
  | --- | -------- | ----- | ----- | ----------------------------------------------------- |
  | 1   | 6        | +2300 | -280  | Camp at Cascade South Fork Zone                       |
@@ -67,9 +69,10 @@ version: 0.1
 | 07/30 | 1930 | San Pickup Gas, Water, Matches, Lighter, Bear Spray Etc  | DoubleTree near SLC | |
 | 07/30 | 2100 | Arrive Shaman in SLC  | DL 727 | |
 | 07/31 | 0900 | Confirm TH Shuttle  | Teton Mountain Taxi  | |
+| 07/31 | 1600 | Arrive Kumar in SLC  | DL 2428 | |
 | 07/31 | 1700 | Arrive Kiran in SLC  | AA 2065 | |
 | 07/31 | 1800 | Leave for Evanston  |  | |
-| 07/31 | 2000 | Arrive Evanston & Checkin  | Hampton Inn / 82255529 / Haya  | |
+| 07/31 | 2000 | Arrive Evanston & Checkin  | Hampton Inn, Evanston, WY / 82255529 / Haya  | |
 | 08/01 | 0800 | Leave Evanston  | | |
 | 08/01 | 1200 | Arrive In Jackson & Pickup Permit  | | |
 | 08/01 | 1500 | Checkin | Flat Creek Inn / Agas Haya / Expedia 72027169636000 | |
@@ -79,10 +82,11 @@ version: 0.1
 | 08/02 | 0900 | Jenny Lake Boat Launch | [Take Jenny Lake Boat Shuttle to CC TH](https://jennylakeboating.com/boat-trips/shuttle-service/) | |
 | 08/02 | 1000 | Start from CC TH | | |
 | 08/06 | 1500 | Arrive Laurance Rockefeller Preserve Parking Lot | | |
-| 08/06 | 1800 | Arrive Idaho Falls & Checkin | Hampton Inn / 82779337 / Haya | |
+| 08/06 | 1800 | Arrive Idaho Falls & Checkin | Hampton Inn, Idaho Falls, ID / 82779337 / Haya | |
 | 08/07 | 0900 | Checkout | | |
 | 08/07 | 1300 | Drop Kiran at SLC  | AA 2846 | |
-| 08/07 | 1400 | Checkin  | Hampton Inn / 87235977 / Haya | |
+| 08/07 | 1530 | Drop Kumar at SLC  | DL 3588 | |
+| 08/07 | 1400 | Checkin  | Hampton Inn, SLC / 87235977 / Haya | |
 | 08/08 | 1000 | Checkout  |  | |
 | 08/08 | 1730 | Drop Rental Car  |  | |
 | 08/08 | 0830 | Shaman Flight  | DL 570  | |
@@ -138,10 +142,10 @@ version: 0.1
 ### Confirmed
 - 4 Confirmed
 - Contacts
-  - Kiran Babu
-  - Sandesh
-  - Shaman
-  - Ranganath
+  - Kiran Babu +1 (214) 934-9512 / Divya +1 (214) 228-5356
+  - Sandesh / Shrigowri ( +91-7204848779 )
+  - Shaman / Shrigowri ( +91-7204848779 )
+  - Ranganath (+1 (206) 660-4142) / Nandini
 
 ### Waitlist
 - 1 on waitlist
