@@ -15,6 +15,7 @@ version: 0.1
   - [Backpack Route](#backpack-route)
   - [Itinerary](#itinerary)
     - [Details](#details)
+    - [Bear Safety](#bear-safety)
   - [Preparation](#preparation)
   - [Physical Conditioning](#physical-conditioning)
   - [People](#people)
@@ -36,18 +37,16 @@ version: 0.1
 
 ## Backpack Route
 
-- [Topo Map](https://caltopo.com/m/NP1F)
+![Overview](./GTNPOverview.jpeg)
 - [Trip Report Video](https://www.youtube.com/watch?v=BGDntCrl6ak)
-
-- ![Overview](./GTNPOverview.jpeg)
-
- | Day | Distance | Gain  | Loss  | Notes                                                 |
- | --- | -------- | ----- | ----- | ----------------------------------------------------- |
- | 1   | 6        | +2300 | -280  | Camp at Cascade South Fork Zone                       |
- | 2   | 6        | +2100 | -1500 | Camp at Alaska Basin - Basin Lakes                    |
- | 3   | 0        | +0    | -0    | Camp at Alaska Basin - Basin Lakes (Rest/Explore Day) |
- | 4   | 8        | +1000 | -2100 | Camp at Death Canyon Zone (Start Early)               |
- | 5   | 8        | +500  | -2600 | Exit                                                  |
+- [Topo Map](https://caltopo.com/m/NP1F)
+   | Day | Distance | Gain  | Loss  | Notes                                                 |
+   | --- | -------- | ----- | ----- | ----------------------------------------------------- |
+   | 1   | 6        | +2300 | -280  | Camp at Cascade South Fork Zone                       |
+   | 2   | 6        | +2100 | -1500 | Camp at Alaska Basin - Basin Lakes                    |
+   | 3   | 0        | +0    | -0    | Camp at Alaska Basin - Basin Lakes (Rest/Explore Day) |
+   | 4   | 8        | +1000 | -2100 | Camp at Death Canyon Zone (Start Early)               |
+   | 5   | 8        | +500  | -2600 | Exit                                                  |
 
 - Things to Know
   - [GTNP Backcountry Info](https://www.nps.gov/grte/planyourvisit/upload/grte_backcountry.pdf)
@@ -108,6 +107,15 @@ version: 0.1
   - [Shuttle](https://jennylakeboating.com/boat-trips/shuttle-service/)
 - Rental Car from SLC
   - [Avis Reservation](https://view.e.avis.com/?qs=abcf9d152c44cc6b292134b2365aa21eee8006b990dc0d1364b4c552b3390061cd8302a64527a101c629af80f160ed62229516ab21351122f20e5e31fa8f563c1c8b4dd38307e934292c0ac7121a8da956053b53a99e5eb9)
+
+### Bear Safety
+
+- [1](http://www.tetonhikingtrails.com/grand-teton-national-park-bears.htm)
+- [2](https://www.nps.gov/grte/planyourvisit/upload/bear_safety17-access.pdf)
+- [3](https://www.nps.gov/glac/planyourvisit/bears.htm)
+- [4](https://www.nps.gov/grsm/learn/nature/black-bears.htm)
+- [5](https://www.nps.gov/articles/hiking-in-bear-country.htm)
+- [6](https://www.nps.gov/subjects/bears/safety.htm)
 
 ## Preparation
 
