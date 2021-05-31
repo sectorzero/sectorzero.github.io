@@ -40,13 +40,14 @@ version: 0.1
 ![Overview](./GTNPOverview.jpeg)
 - [Trip Report Video](https://www.youtube.com/watch?v=BGDntCrl6ak)
 - [Topo Map](https://caltopo.com/m/NP1F)
-   | Day | Distance | Gain  | Loss  | Notes                                                 |
-   | --- | -------- | ----- | ----- | ----------------------------------------------------- |
-   | 1   | 6        | +2300 | -280  | Camp at Cascade South Fork Zone                       |
-   | 2   | 6        | +2100 | -1500 | Camp at Alaska Basin - Basin Lakes                    |
-   | 3   | 0        | +0    | -0    | Camp at Alaska Basin - Basin Lakes (Rest/Explore Day) |
-   | 4   | 8        | +1000 | -2100 | Camp at Death Canyon Zone (Start Early)               |
-   | 5   | 8        | +500  | -2600 | Exit                                                  |
+
+ | Day | Distance | Gain  | Loss  | Notes                                                 |
+ | --- | -------- | ----- | ----- | ----------------------------------------------------- |
+ | 1   | 6        | +2300 | -280  | Camp at Cascade South Fork Zone                       |
+ | 2   | 6        | +2100 | -1500 | Camp at Alaska Basin - Basin Lakes                    |
+ | 3   | 0        | +0    | -0    | Camp at Alaska Basin - Basin Lakes (Rest/Explore Day) |
+ | 4   | 8        | +1000 | -2100 | Camp at Death Canyon Zone (Start Early)               |
+ | 5   | 8        | +500  | -2600 | Exit                                                  |
 
 - Things to Know
   - [GTNP Backcountry Info](https://www.nps.gov/grte/planyourvisit/upload/grte_backcountry.pdf)
