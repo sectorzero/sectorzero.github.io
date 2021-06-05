@@ -17,11 +17,10 @@ version: 0.1
     - [Details](#details)
     - [Bear Safety](#bear-safety)
   - [Preparation](#preparation)
-  - [Physical Conditioning](#physical-conditioning)
   - [People](#people)
-  - [Emergency Contact](#emergency-contact)
     - [Confirmed](#confirmed)
     - [Waitlist](#waitlist)
+  - [Emergency Contact Numbers](#emergency-contact-numbers)
 
 # Backpacking Trip 2021
 
@@ -122,31 +121,38 @@ version: 0.1
 
 - Items Check
   - See [Backpack Itemization](https://1drv.ms/x/s!Au4_6JRfzLRRnkEhQCpjtOc5AsKd?e=dUPQGH) for list of items, 'orange' is personal items which you need to get. Adjust as per your preference. Other 'shared' things are arranged.
-  - Test load the backpack, so no surprises
-  - Let me know any questions / changes required
-- Doubly Ensure
-  - Sleeping bag / Pad
-  - Shoes
-  - Backpack
-  - Food Plan
-  - 10 essentials
+  - For clothes, please use whatever is comfortable for you. Eg. I like to use shorts/tshirt. Ideally long sleeve shirt and pants are better due to high UV. It's just a personal preference based on comfort. So use what suits you best.
+  - Also something for rain/wind/cold
+    - Eg. I am using poncho, fleece and light wind-jacket
+    - Alternatively you can use fleece & rain jacket
+  - Doubly Ensure
+    - Sleeping bag / Pad
+    - Shoes
+    - Backpack
+    - Food Plan
+    - any essentials
+- Packing the bag
+  - Test load the backpack, so no surprises. 
+  - Shared Weight Approx : 5.25 Kg / Per Person ( Includes : Bear Canisters, Tent, Cooking Stuff - Stove, Gas, Plates, Water Filter, Morning+Evening Food, FA Kit ). So your total backpack weight will be inclusive of this.
+  - Let me know any questions / changes required. Please post pics and your weight so that we can adjust.
+  - Personally, I remove everything not needed in a backpack. I use a thick trash bag as liner for bag to waterproof. Also while packing things, I try to avoid any sub-covers etc, which just add up weight.
+  - How you pack the bag matters a lot for comfort. Basically the weightiest/densest items should close to your spine at the upper portion of your back, just around and below neck. The bottom of back should be soft/low-density (sleeping-bag). How I pack my bag has really changed weight carrying comfort personally. You need to pack and do some 2-3 mi walk to keep adjusting till you get to a good spot
+  - Also, I personnally use weight-belt for carrying bag, Just personal preference as it distributes the weight a little bit betters, althought a bit uncomforable to keep adjusting and take on/off the bag.
+  - Water : keep light water bottles like Platypus canteens or ultra-light throw away water bottles.
+- Physical Conditioning
+  - I try to do some regular running, weighted-backwack walks, squats. Also will try to do 2 conditining hikes of 8 mi. 
+- Adjusting to bag weight
+  - Practice walking with shoes and realistically loaded backpack. Need to get comfortable. Only way is keep doing walks with representative load and shoes. Like when you to for a daily walk of 2-3,mi, just carry the weight
+  - Need to do possibly 2 of 8mi hikes with full load when you get a chance.
+  - Please do not do anything strenous on last 7 days. Last time, the other guy did s test/training hike on the day before the actual hike and he got totally dehydrated. You body needs to recover for atleast a week.
 - Food Plan  
   - Current plan is shared bfast {oats, uphitt} for 4 mornings & dinner {kichdi} for 4 nights
   - Common stove, gas and pot
   - For afternoon, make and get personal preference snacks, ideally no cooking required. All items should fit in 1.25 bear canisters for all 4 ppl.
+    - Eg. My afternoon meal is { peanuts, mejdool-dates, corn-chips, seaweed }. Please get what you prefer and works for you.
   - If other meal plan required, please send details to adjust things.
-- Practice walking with shoes and realistically loaded backpack.
-
-## Physical Conditioning
-- Shoes
-- Backpack
 
 ## People
-
-## Emergency Contact
-- TBD
-- Notified People
-  - TBD
 
 ### Confirmed
 - 4 Confirmed
@@ -159,3 +165,8 @@ version: 0.1
 ### Waitlist
 - 1 on waitlist
   - Vinay
+
+## Emergency Contact Numbers
+- TBD
+- Notified People
+  - TBD
