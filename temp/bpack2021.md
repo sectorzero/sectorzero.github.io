@@ -65,26 +65,28 @@ version: 0.1
 | 07/30 | 1630 | Arrive San in SLC  | DL 2156 | |
 | 07/30 | 1730 | San Pickup Rental Car  | Avis | |
 | 07/30 | 1830 | San Checkin  | DoubleTree near SLC | |
-| 07/30 | 1930 | San Pickup Gas, Water, Matches, Lighter, Bear Spray Etc  | DoubleTree near SLC | |
+| 07/30 | 1930 | San Pickup !!!Gas!!!, Water, !!!Matches!!!, !!!Lighter!!! Etc  | DoubleTree near SLC | |
 | 07/30 | 2100 | Arrive Shaman in SLC  | DL 727 | |
 | 07/31 | 0900 | Confirm TH Shuttle  | Teton Mountain Taxi  | |
-| 07/31 | 1600 | Arrive Kumar in SLC  | DL 2428 | |
-| 07/31 | 1700 | Arrive Kiran in SLC  | AA 2065 | |
+| 07/31 | 1600 | Arrive Kumar in SLC  | DL 2428 | | Arrives @ 16:00 
+| 07/31 | 1700 | Arrive Kiran in SLC  | AA 2065 | | Arrives @ 
 | 07/31 | 1800 | Leave for Evanston  |  | |
 | 07/31 | 2000 | Arrive Evanston & Checkin  | Hampton Inn, Evanston, WY / 82255529 / Haya  | |
 | 08/01 | 0800 | Leave Evanston  | | |
-| 08/01 | 1200 | Arrive In Jackson & Pickup Permit  | | |
+| 08/01 | 1200 | Arrive In Jackson | | |
+| 08/01 | 1200 | Pickup Permit from NP Office | | | Craig Thomas Discovery & Visitor Center (307) 739-3309
 | 08/01 | 1500 | Checkin | Flat Creek Inn / Agas Haya / Expedia 72027169636000 | |
-| 08/01 | 1800 | Pack Bags & Item Check | | |
+| 08/01 | 1600 | Pickup Rental Items | | | Teton Backcountry Rentals (307) 828-1885
+| 08/01 | 1700 | Pack Bags & Item Check | | |
 | 08/02 | 0700 | Checkout | | |
-| 08/02 | 0800 | Laurance Rockefeller Preserve Parking Lot | | |
-| 08/02 | 0900 | Jenny Lake Boat Launch | [Take Jenny Lake Boat Shuttle to CC TH](https://jennylakeboating.com/boat-trips/shuttle-service/) | |
+| 08/02 | 0800 | Laurance Rockefeller Preserve Parking Lot | | | Shuttle Info : Teton Mountain Taxi (307) 699 7969
+| 08/02 | 0900 | Jenny Lake Boat Launch | [Take Jenny Lake Boat Shuttle to CC TH](https://jennylakeboating.com/boat-trips/shuttle-service/) | | (307) 734-9227
 | 08/02 | 1000 | Start from CC TH | | |
 | 08/06 | 1500 | Arrive Laurance Rockefeller Preserve Parking Lot | | |
 | 08/06 | 1800 | Arrive Idaho Falls & Checkin | Hampton Inn, Idaho Falls, ID / 82779337 / Haya | |
 | 08/07 | 0900 | Checkout | | |
-| 08/07 | 1300 | Drop Kiran at SLC  | AA 2846 | |
-| 08/07 | 1530 | Drop Kumar at SLC  | DL 3588 | |
+| 08/07 | 1300 | Drop Kiran at SLC  | AA 2846 | | Departs @
+| 08/07 | 1330 | Drop Kumar at SLC  | DL 3588 | | Departs @ 15:30
 | 08/07 | 1400 | Checkin  | Hampton Inn, SLC / 87235977 / Haya | |
 | 08/08 | 1000 | Checkout  |  | |
 | 08/08 | 1730 | Drop Rental Car  |  | |
@@ -94,8 +96,7 @@ version: 0.1
 ### Details
 - Permit Details
   - Acquired Permit for 4 between Aug 2 and Aug 6
-  - Needs to be picked up
-  - TBD
+  - Needs to be picked up on Sunday 08/01 or 08/02 before 10 AM
 - Jackson Stay Bookings 
   - Aug 1 - Done ($250)
   - Aug 6 - Done ($250)
