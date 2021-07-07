@@ -58,16 +58,6 @@ version: 0.1
 - Ranganath (+1-206-660-4142) / Nandini ()
 
 ### Permit Info
-```
-  San Dodd 
-  Aug 02 2021 Entry: Jenny Lake Trailhead
-  Aug 07 2021 Exit: Granite Canyon Trailhead
-  Permit Category: Hiking Permit
-  Reservation Number: 0341192157-1
-  Group Size: 4
-  Permit Holder: San Dodd
-  Area: Cascade South Fork
-```
 
 ### Emergency Contact
 - Grand Teton National Park (+1-307-739-3309 / +1-307–739​–3399)
