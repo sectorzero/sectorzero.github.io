@@ -13,14 +13,15 @@ version: 0.1
 - [Backpacking Trip 2021](#backpacking-trip-2021)
   - [GPS Tracker](#gps-tracker)
   - [Backpack Route](#backpack-route)
+  - [People](#people)
+    - [Contacts](#contacts)
+    - [Permit Info](#permit-info)
+    - [Emergency Contact](#emergency-contact)
   - [Itinerary](#itinerary)
     - [Details](#details)
     - [Bear Safety](#bear-safety)
+    - [Jackson Webcams](#jackson-webcams)
   - [Preparation](#preparation)
-  - [People](#people)
-    - [Confirmed](#confirmed)
-    - [Waitlist](#waitlist)
-  - [Emergency Contact Numbers](#emergency-contact-numbers)
 
 # Backpacking Trip 2021
 
@@ -48,16 +49,32 @@ version: 0.1
  | 4   | 8        | +1000 | -2100 | Camp at Death Canyon Zone (Start Early)               |
  | 5   | 8        | +500  | -2600 | Exit                                                  |
 
-- Things to Know
-  - [GTNP Backcountry Info](https://www.nps.gov/grte/planyourvisit/upload/grte_backcountry.pdf)
-  - Need to pickup permit a day ahead
-  - Has trailhead shuttle logistics
-  - Jackson, WY is extremely expensive to fly into and to stay
-  - Bear country, need bear canister and precautions
-  - Cooking gas canisters need to be bought at destination (as flying into)
-  - Need to borrow sat communicator for emergency and location ping
-  - Water is plenty on route and can optimize carry weight
+## People
 
+### Contacts
+- Kiran Babu (+1-214-934-9512) / Divya (+1-214-228-5356)
+- Sandesh (+1-512-522-9795) / Shrigowri (+91-7204848779)
+- Shaman (+1-814-852-8991) / Shrigowri ( +91-7204848779 )
+- Ranganath (+1-206-660-4142) / Nandini ()
+
+### Permit Info
+```
+  San Dodd 
+  Aug 02 2021 Entry: Jenny Lake Trailhead
+  Aug 07 2021 Exit: Granite Canyon Trailhead
+  Permit Category: Hiking Permit
+  Reservation Number: 0341192157-1
+  Group Size: 4
+  Permit Holder: San Dodd
+  Area: Cascade South Fork
+```
+
+### Emergency Contact
+- Grand Teton National Park (+1-307-739-3309 / +1-307–739​–3399)
+- 911 
+- Notified People (Trackers)
+  - Rishab Animesh (TBD) 
+  - TBD
 ## Itinerary 
 
 | Date  | Time | Event  | Details  | Notes                                                 |
@@ -83,6 +100,7 @@ version: 0.1
 | 08/02 | 0900 | Jenny Lake Boat Launch | [Take Jenny Lake Boat Shuttle to CC TH](https://jennylakeboating.com/boat-trips/shuttle-service/) | | (307) 734-9227
 | 08/02 | 1000 | Start from CC TH | | |
 | 08/06 | 1500 | Arrive Laurance Rockefeller Preserve Parking Lot | | |
+| 08/06 | 1600 | Dropoff Rental Items | | | Teton Backcountry Rentals (307) 828-1885
 | 08/06 | 1800 | Arrive Idaho Falls & Checkin | Hampton Inn, Idaho Falls, ID / 82779337 / Haya | |
 | 08/07 | 0900 | Checkout | | |
 | 08/07 | 1300 | Drop Kiran at SLC  | AA 2846 | | Departs @
@@ -109,6 +127,16 @@ version: 0.1
 - Rental Car from SLC
   - [Avis Reservation](https://view.e.avis.com/?qs=abcf9d152c44cc6b292134b2365aa21eee8006b990dc0d1364b4c552b3390061cd8302a64527a101c629af80f160ed62229516ab21351122f20e5e31fa8f563c1c8b4dd38307e934292c0ac7121a8da956053b53a99e5eb9)
 
+- Things to Know
+  - [GTNP Backcountry Info](https://www.nps.gov/grte/planyourvisit/upload/grte_backcountry.pdf)
+  - Need to pickup permit a day ahead
+  - Has trailhead shuttle logistics
+  - Jackson, WY is extremely expensive to fly into and to stay
+  - Bear country, need bear canister and precautions
+  - Cooking gas canisters need to be bought at destination (as flying into)
+  - Need to borrow sat communicator for emergency and location ping
+  - Water is plenty on route and can optimize carry weight
+
 ### Bear Safety
 
 - [1](http://www.tetonhikingtrails.com/grand-teton-national-park-bears.htm)
@@ -117,6 +145,15 @@ version: 0.1
 - [4](https://www.nps.gov/grsm/learn/nature/black-bears.htm)
 - [5](https://www.nps.gov/articles/hiking-in-bear-country.htm)
 - [6](https://www.nps.gov/subjects/bears/safety.htm)
+
+### Jackson Webcams
+- [Jenny Lake Boating](https://jennylakeboating.com/jenny-lake-webcam/)
+- [GTNP](https://www.nps.gov/subjects/air/webcams.htm?site=grte)
+- [American Alpine Club](http://www.americanalpineclub.org.php56-21.dfw3-2.websitetestlink.com/images/gtcr_webcam/webcam.jpg)
+- [Jackson](https://www.youtube.com/watch?v=DoUOrTJbIu4)
+- [Jackson](https://www.youtube.com/watch?v=WCOGjOAU_D8)
+- [Jackson](https://www.youtube.com/watch?v=19cDoK1aP9o)
+- [Jackson](https://www.youtube.com/watch?v=bMUgmKu5z1o)
 
 ## Preparation
 
@@ -152,22 +189,3 @@ version: 0.1
   - For afternoon, make and get personal preference snacks, ideally no cooking required. All items should fit in 1.25 bear canisters for all 4 ppl.
     - Eg. My afternoon meal is { peanuts, mejdool-dates, corn-chips, seaweed }. Please get what you prefer and works for you.
   - If other meal plan required, please send details to adjust things.
-
-## People
-
-### Confirmed
-- 4 Confirmed
-- Contacts
-  - Kiran Babu +1 (214) 934-9512 / Divya +1 (214) 228-5356
-  - Sandesh / Shrigowri ( +91-7204848779 )
-  - Shaman / Shrigowri ( +91-7204848779 )
-  - Ranganath (+1 (206) 660-4142) / Nandini
-
-### Waitlist
-- 1 on waitlist
-  - Vinay
-
-## Emergency Contact Numbers
-- TBD
-- Notified People
-  - TBD
