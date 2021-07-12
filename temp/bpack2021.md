@@ -57,10 +57,15 @@ version: 0.1
 
 - [Trip Report Video](https://www.youtube.com/watch?v=BGDntCrl6ak)
 <!-- Backpack Route -->
-<figure class="iframe_container">
-  <iframe src="https://www.youtube.com/watch?v=BGDntCrl6ak" width="1005" height="346" frameborder="0" scrolling="no">
-  </iframe>
-</figure>
+<iframe
+    width="640"
+    height="480"
+    src="https://www.youtube.com/embed/BGDntCrl6ak"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
 <!-- Backpack Route -->
 
 ## People
