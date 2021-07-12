@@ -38,8 +38,14 @@ version: 0.1
 ## Backpack Route
 
 ![Overview](./GTNPOverview.jpeg)
-- [Trip Report Video](https://www.youtube.com/watch?v=BGDntCrl6ak)
+
 - [Topo Map](https://caltopo.com/m/NP1F)
+<!-- Backpack Route -->
+<figure class="iframe_container">
+  <iframe src="https://caltopo.com/m/NP1F" width="1005" height="346" frameborder="0" scrolling="no">
+  </iframe>
+</figure>
+<!-- Backpack Route -->
 
  | Day | Distance | Gain  | Loss  | Notes                                                 |
  | --- | -------- | ----- | ----- | ----------------------------------------------------- |
@@ -49,13 +55,21 @@ version: 0.1
  | 4   | 8        | +1000 | -2100 | Camp at Death Canyon Zone (Start Early)               |
  | 5   | 8        | +500  | -2600 | Exit                                                  |
 
+- [Trip Report Video](https://www.youtube.com/watch?v=BGDntCrl6ak)
+<!-- Backpack Route -->
+<figure class="iframe_container">
+  <iframe src="https://www.youtube.com/watch?v=BGDntCrl6ak" width="1005" height="346" frameborder="0" scrolling="no">
+  </iframe>
+</figure>
+<!-- Backpack Route -->
+
 ## People
 
 ### Contacts
 - Kiran Babu (+1-214-934-9512) / Divya (+1-214-228-5356)
-- Sandesh (+1-512-522-9795) / Shrigowri (+91-7204848779)
-- Shaman (+1-814-852-8991) / Shrigowri ( +91-7204848779 )
-- Ranganath (+1-206-660-4142) / Nandini ()
+- Sandesh (+1-512-522-9795 / WA: +91 99862 54990) / Shrigowri (+91-7204848779 / WA: +91 94810 59418)
+- Shaman (+1-814-852-8991) / Shrigowri (+91-7204848779 / WA: +91 94810 59418)
+- Ranganath (+1-206-660-4142) / Nandini (+1-206-660-4132)
 
 ### Permit Info
 
@@ -64,7 +78,8 @@ version: 0.1
 - 911 
 - Notified People (Trackers)
   - Rishab Animesh (TBD) 
-  - TBD
+  - Divya (TBD)
+
 ## Itinerary 
 
 | Date  | Time | Event  | Details  | Notes                                                 |
