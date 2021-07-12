@@ -42,7 +42,7 @@ version: 0.1
 - [Topo Map Detailed](https://caltopo.com/m/NP1F)
 <!-- Backpack Route -->
 <figure class="iframe_container">
-  <iframe src="https://caltopo.com/m/NP1F" width="1100" height="700" frameborder="0" scrolling="no">
+  <iframe src="https://caltopo.com/m/NP1F" width="640" height="960" frameborder="0" scrolling="no">
   </iframe>
 </figure>
 <!-- Backpack Route -->
