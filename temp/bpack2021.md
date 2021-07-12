@@ -39,10 +39,10 @@ version: 0.1
 
 ![Overview](./GTNPOverview.jpeg)
 
-- [Topo Map](https://caltopo.com/m/NP1F)
+- [Topo Map Detailed](https://caltopo.com/m/NP1F)
 <!-- Backpack Route -->
 <figure class="iframe_container">
-  <iframe src="https://caltopo.com/m/NP1F" width="1005" height="346" frameborder="0" scrolling="no">
+  <iframe src="https://caltopo.com/m/NP1F" width="2005" height="1000" frameborder="0" scrolling="no">
   </iframe>
 </figure>
 <!-- Backpack Route -->
@@ -56,7 +56,7 @@ version: 0.1
  | 5   | 8        | +500  | -2600 | Exit                                                  |
 
 - [Trip Report Video](https://www.youtube.com/watch?v=BGDntCrl6ak)
-<!-- Backpack Route -->
+<!-- Trip Report Video -->
 <iframe
     width="640"
     height="480"
@@ -66,7 +66,7 @@ version: 0.1
     allowfullscreen
 >
 </iframe>
-<!-- Backpack Route -->
+<!-- Trip Report Video -->
 
 ## People
 
