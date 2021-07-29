@@ -40,7 +40,7 @@ version: 0.1
 | --- | -------- | 
 | Kiran Babu (+1-214-934-9512) | Divya (+1-214-228-5356) |
 | Sandesh (+1-512-522-9795 / WA: +91 99862 54990) | Shrigowri (+91-7204848779 / WA: +91 94810 59418) |
-| Shaman (+1-814-852-8991) | Shrigowri (+91-7204848779 / WA: +91 94810 59418) |
+| ~~Shaman (+1-814-852-8991)~~ | ~~Shrigowri (+91-7204848779 / WA: +91 94810 59418)~~ |
 | Ranganath (+1-206-660-4142) | Nandini (+1-206-660-4132) |
 
 ### Permit Info
@@ -62,6 +62,7 @@ version: 0.1
 - Grand Teton National Park (+1-307-739-3309 / +1-307–739​–3399)
 - 911 
 - Notified People (Trackers)
+  - Shaman (+1-814-852-8991)
   - Rishab Animesh (+1-607-793-3515) 
   - Divya (+1-214-228-5356)
 
@@ -89,7 +90,7 @@ version: 0.1
 | 08/01 | 1200 | Arrive In Jackson | | |
 | 08/01 | 1200 | Pickup Permit from NP Office | | | Craig Thomas Discovery & Visitor Center (307) 739-3309
 | 08/01 | 1500 | Checkin | Flat Creek Inn / Agas Haya / Expedia 72027169636000 | |
-| 08/01 | 1600 | Pickup Rental Items | | | Teton Backcountry Rentals (307) 828-1885 / San Dodd
+| 08/01 | 1600 | Pickup Rental Items | | | Teton Backcountry Rentals (307) 828-1885 / San Dodd - BearSpray, GPS/SatComm, Tent, BearBox
 | 08/01 | 1700 | Pack Bags & Item Check | | |
 | 08/02 | 0700 | Checkout | | |
 | 08/02 | 0800 | Laurance Rockefeller Preserve Parking Lot | | | Shuttle Info : Teton Mountain Taxi (307) 699 7969 / San Dodd
@@ -99,13 +100,10 @@ version: 0.1
 | 08/06 | 1600 | Dropoff Rental Items | | | Teton Backcountry Rentals (307) 828-1885
 | 08/06 | 1800 | Arrive Idaho Falls & Checkin | Hampton Inn, Idaho Falls, ID / 82779337 / Agas Haya | |
 | 08/07 | 0900 | Checkout | | |
-| 08/07 | 1300 | Drop Kiran at SLC  | AA 2846 | | Departs @ 15:00
-| 08/07 | 1300 | Drop Kumar at SLC  | DL 3588 | | Departs @ 15:30
-| 08/07 | 1400 | Checkin  | Hampton Inn Salt Lake City Central, SLC / 87941192 / Agas Haya | |
-| 08/08 | 1000 | Checkout  |  | |
-| 08/08 | 1730 | Drop Rental Car  |  | |
-| 08/08 | 2030 | Shaman Flight  | DL 570  | |
-| 08/08 | 2030 | San Flight  | DL 370  | |
+| 08/07 | 1200 | Drop Rental Car | | |
+| 08/07 | 1300 | Drop Kiran at SLC | AA 2846 | | Departs @ 15:00
+| 08/07 | 1300 | Drop Sandesh at SLC | DL 0796 | | Departs @ 15:10
+| 08/07 | 1300 | Drop Kumar at SLC | DL 3588 | | Departs @ 15:30
 
 ## Backpack Route
 
