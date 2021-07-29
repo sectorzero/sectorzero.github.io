@@ -80,7 +80,6 @@ version: 0.1
 | 07/30 | 1730 | San Pickup Rental Car  | Avis | | Sandesh Doddameti / 05750855US5
 | 07/30 | 1830 | San Checkin  | DoubleTree near SLC | | Agas Haya
 | 07/30 | 1930 | San Pickup !!!Gas!!!, !!!Water!!!, !!!Matches!!!, !!!Lighter!!! | | |
-| 07/30 | 2100 | Arrive Shaman in SLC  | DL 727 | |
 | 07/31 | 0900 | Confirm TH Shuttle  | Teton Mountain Taxi  | | Shuttle Info : Teton Mountain Taxi (307) 699 7969 / San Dodd
 | 07/31 | 1600 | Arrive Kumar in SLC  | DL 2428 | | Arrives @ 16:00 
 | 07/31 | 1700 | Arrive Kiran in SLC  | AA 2065 | | Arrives @ 17:00 
