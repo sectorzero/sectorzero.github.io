@@ -68,7 +68,9 @@ version: 0.1
 - Should be off major roads. Secluded ok, but not too remote.
 - Ideally would be close to or adjoining some state or conservation land which will not have long term change.
 ## Price Range
-- 400-450K (Can be a bit flexible based on real value or future prospects of property)
+- With built-house around 400-450K (Can be a bit flexible based on real value or future prospects of property)
+- Only land (approx 10 ac) : 100-200K (depends on a lot of factors, just setting the range)
+
 ## Region
 - Northern Florida & a small portion of Sothern Georgia
 - NOTE : I have chosen within the Southeast ONLY. Mainly within NC, SC, GA, FL. I am also open to considering MS if this does not work out. NC, SC and GA, below or at the boundary of the Piedmont.
@@ -86,18 +88,8 @@ version: 0.1
   - Leon
   - Jefferson
   - Madison
-  - Hamilton
-  - Baker
-  - Union
-  - Bradford
   - Lafayette
   - Suwanee
-  - Dixie
-  - Gilchrist
-  - Columbia
-  - Alachua
-  - Levy
-  
 - South Georgia
   - Decatur
   - Grady
